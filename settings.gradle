@@ -1,0 +1,1 @@
+include ':app', ':hlcore-android', ':hluikit-android'
